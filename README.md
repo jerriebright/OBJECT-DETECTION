@@ -1,5 +1,7 @@
 # Live Object Detection
 
+This repository implements object detection using YOLO and MobileNetSSD techniques in real time. Both techniques uses OpenCv to access the webcam. 
+
 ## How to run Yolo detection
 - Download respective YOLO V3 weights file from [here](https://pjreddie.com/darknet/yolo/).
 - Then, run the *yolo.py* code.
