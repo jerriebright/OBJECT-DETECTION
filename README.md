@@ -11,4 +11,4 @@ This repository implements object detection using YOLO and MobileNetSSD techniqu
 - Then, run the *mobilenetssd.py* code.
 
 ## Result
-![Detecting a mobile phone and a person](https://alexsikorski.net/img/live-object-detection/detection.jpg)
+![Detecting a mobile phone and a person]()
